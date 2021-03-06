@@ -8,10 +8,10 @@
 
 ## Contact info
 
-- Adress: Belarus, Minsk
-- Phone: +375 (33) 306-98-07
-- E-Mail: kv37813@gmail.com
-- Telegram: @Vitali_Klimza
+- **Adress: Belarus, Minsk**
+- **Phone: +375 (33) 306-98-07**
+- **E-Mail: kv37813@gmail.com**
+- **Telegram: @Vitali_Klimza**
 
 ## About me
 
