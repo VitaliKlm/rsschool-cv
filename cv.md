@@ -15,7 +15,7 @@
 
 ## About me
 
-My goal is to get a job as a junior Front-end Developer in an IT company and become a highly qualified professional. I want to gain experience in web-development, work in a team, learn from colleagues and help others to improve. I'm curious, positive, ambitious and hungry for knowledge. I have worked as an engineer in the sphere of high-precision measurements (including using satellite data) for about 2 years. This work improved my soft-skills, teamwork skills, and passion for modern technology. I think this experience will be useful to me as a developer.
+My goal is to get a job as a _Junior Front-end Developer_ in an IT company and become a highly qualified professional. I want to gain experience in web-development, work in a team, learn from colleagues and help others to improve. I'm curious, positive, ambitious and hungry for knowledge. I have worked as an engineer in the sphere of high-precision measurements (including using satellite data) for about 2 years. This work improved my soft-skills, teamwork skills, and passion for modern technology. I think this experience will be useful to me as a developer.
 
 ## Skills
 
