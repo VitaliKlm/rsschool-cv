@@ -12,10 +12,12 @@
   flex-direction: row;
 }
 .avatar__img {
-  height: 200px;
-  width: 150px;
+  height: 400px;
+  width: 300px;
 }
-
+.contact-info {
+  margin-top: 50px;
+}
 .text {
   font-size: 18px;
   line-height: 28px;
