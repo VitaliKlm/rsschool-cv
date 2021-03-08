@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  font-family: "Verdana", sans-serif;
+}
+.wrapper {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+}
+.avatar__img {
+  height: 200px;
+  width: 150px;
+}
+
+.text {
+  font-size: 18px;
+  line-height: 28px;
+  color: #2c2c2c;
+}
+
+.link:hover {
+  color: #0000d0;
+}
+
+.footer {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+}
+.date {
+  margin-top: 12px;
+}
+.github-icon {
+  margin-left: 30px;
+  height: 50px
+}
+.rsschool-icon {
+  margin-left: 30px;
+  height: 50px
+}
