@@ -3,44 +3,57 @@
   font-family: "Verdana", sans-serif;
 }
 .wrapper {
-  max-width: 1024px;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
 }
-.header {
-  display: flex;
-  flex-direction: row;
-}
-.avatar__img {
-  height: 400px;
-  width: 300px;
-}
-.contact-info {
-  margin-top: 50px;
-}
+
 .text {
-  font-size: 18px;
-  line-height: 28px;
+  font-size: 16px;
+  line-height: 26px;
   color: #2c2c2c;
 }
-
 .link:hover {
   color: #0000d0;
 }
 
-.footer {
-  margin-top: 50px;
+.header {
   display: flex;
   flex-direction: row;
+  background-color: rgb(245, 233, 233);
+}
+.avatar__img {
+  height: 300px;
+  width: 225px;
+}
+.contact-info__title {
+  margin-top: 35px;
+}
+
+.content {
+  margin: 40px
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.footer {
+  padding: 10px;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(245, 233, 233);
 }
 .date {
-  margin-top: 12px;
+  margin-top: 20px;
 }
-.github-icon {
-  margin-left: 30px;
-  height: 50px
+.icon-wrapper:hover {
+  background-color: white;
 }
-.rsschool-icon {
+.icon-link {
   margin-left: 30px;
+}
+.icon {
   height: 50px
 }
