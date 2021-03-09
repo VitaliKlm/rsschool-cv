@@ -15,8 +15,10 @@
           <img class="avatar__img" src="/images/avatar.jpg" alt="avatar" />
         </figure>
         <div class="contact-info">
-          <h1 class="header__person-name">Vitali Klimza</h1>
-          <h3 class="header__position"><em>Front-end/JS Developer</em></h3>
+          <h1 class="contact-info__person-name">Vitali Klimza</h1>
+          <h3 class="contact-info__position">
+            <em>Front-end/JS Developer</em>
+          </h3>
           <h2 class="contact-info__title">Contact info</h2>
           <ul class="contact-info__list">
             <li class="contact-info__text text">
@@ -39,11 +41,12 @@
         <section class="aboutme-container">
           <h2 class="aboutme-container__title title">About me</h2>
           <div class="aboutme-container__text text">
-            My goal is to get a job as a _Junior Front-end Developer_ in an IT
-            company and become a highly qualified professional. I want to gain
-            experience in web-development, work in a team, learn from colleagues
-            and help others to improve. I'm curious, positive, ambitious and
-            hungry for knowledge. I have worked as an engineer in the sphere of
+            My goal is to get a job as a
+            <strong><em>Front-end Developer</em></strong> in an IT company and
+            become a highly qualified professional. I want to gain experience in
+            web-development, work in a team, learn from colleagues and help
+            others to improve. I'm curious, positive, ambitious and hungry for
+            knowledge. I have worked as an engineer in the sphere of
             high-precision measurements (including using satellite data) for
             about 2 years. This work improved my soft-skills, teamwork skills,
             and passion for modern technology. I think this experience will be
@@ -65,11 +68,11 @@
         <section class="education-container">
           <h2 class="education-container__title title">Education</h2>
           <div class="education-container__text text">
-            <p>
+            <p class="education-container__paragraph">
               Engineer-geodesist bachelor’s degree in Polotsk State Univercity,
               faculty of information technologies.
             </p>
-            <p>
+            <p class="education-container__paragraph">
               English courses in "Centre for Foreign Languages Study
               «Universum»" at Polotsk State University
             </p>
@@ -83,8 +86,12 @@
               Different free programming courses and documentation
             </li>
             <li class="experience-container__text text">
+              Participation in presentations (videoconference format) in English
+            </li>
+            <li class="experience-container__text text">
               My own pet projects, based on algorithms
             </li>
+
             <li class="experience-container__text text">
               <a
                 href="https://github.com/VitaliKlm/stack-machine"
@@ -92,6 +99,7 @@
                 >Stack-machine + Shunting-yard-algorithm</a
               >
             </li>
+
             <li class="experience-container__text text">
               <a
                 href="https://github.com/VitaliKlm/binary-search"
@@ -99,9 +107,7 @@
                 >Binary-search</a
               >
             </li>
-            <li class="experience-container__text text">
-              Participation in presentations (videoconference format) in English
-            </li>
+
           </ul>
         </section>
 
@@ -117,9 +123,9 @@
         <section class="english-container">
           <h2 class="english-container__title title">English</h2>
           <div class="english-container__text text">
-            <p>Intermediate (B1) level</p>
-            <p>
-              Participation and prize places in international online English
+            <p class="english-container__paragraph">Intermediate (B1) level</p>
+            <p class="english-container__paragraph">
+              Participation in international online English
               competitions
             </p>
           </div>
@@ -127,23 +133,27 @@
       </main>
 
       <footer class="footer">
-        <div class="date">08.03.2021</div>
-        <a href="https://github.com/VitaliKlm" class="github-link link">
-          <img
-            src="images/GitHub-Mark-64px.png"
-            alt="github"
-            class="github-icon"
-          />
+        <a href="https://github.com/VitaliKlm" class="github-link icon-link">
+          <div class="icon-wrapper">
+            <img
+              src="images/GitHub-Mark-64px.png"
+              alt="github"
+              class="github-icon icon"
+            />
+          </div>
         </a>
+
         <a
           href="https://rs.school/js/#basic-knowledge"
-          class="rsschool-link link"
+          class="rsschool-link icon-link"
         >
-          <img
-            src="images/rs_school_js.svg"
-            alt="rsschool"
-            class="rsschool-icon"
-          />
+          <div class="icon-wrapper">
+            <img
+              src="images/rs_school_js.svg"
+              alt="rsschool"
+              class="rsschool-icon icon"
+            />
+          </div>
         </a>
       </footer>
     </div>
